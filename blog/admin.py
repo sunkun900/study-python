@@ -12,3 +12,4 @@ admin.site.register(Post, PostAdmin)
 admin.site.register(Category)
 admin.site.register(Tag)
 #update
+#check
